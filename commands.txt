@@ -1,0 +1,5 @@
+python main.py --force-fp16 --lowvram --disable-smart-memory
+
+ python main.py --enable-manager
+
+ python main.py --highvram
